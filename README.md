@@ -8,7 +8,7 @@ I'm a third-semester Informatics student passionate about web programming.
 - **Databases**: MySQL
 
 ## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivanghibranE&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivanghibran&show_icons=true&theme=radical)
 
 ## ⏰ Coding Time
-[![WakaTime](https://wakatime.com/badge/user/rivanghibran.svg)](https://wakatime.com/@USER_ID)
+[![WakaTime](https://wakatime.com/badge/user/@rivanghibran.svg)](https://wakatime.com/@USER_ID)
