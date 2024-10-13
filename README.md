@@ -11,4 +11,4 @@ I'm a third-semester Informatics student passionate about web programming.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivanghibran&show_icons=true&theme=radical)
 
 ## ⏰ Coding Time
-[![WakaTime](https://wakatime.com/badge/user/@rivanghibran.svg)](https://wakatime.com/@USER_ID)
+[![WakaTime](https://wakatime.com/badge/user/@rivanghibran.svg)](https://wakatime.com/@rivanghibran)
