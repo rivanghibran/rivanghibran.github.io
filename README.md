@@ -3,7 +3,7 @@
 I'm a third-semester Informatics student passionate about web programming.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, JavaScript, PHP
+- **Languages**: Python, PHP
 - **Frameworks**: Flask
 - **Databases**: MySQL
 
