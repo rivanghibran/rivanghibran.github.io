@@ -14,5 +14,4 @@ I'm a third-semester Informatics student passionate about web programming.
 
 [![wakatime](https://wakatime.com/badge/user/4b870f2f-0757-4ad0-bd5f-3eb041683c9c.svg)](https://wakatime.com/@4b870f2f-0757-4ad0-bd5f-3eb041683c9c)
 [![WakaTime](https://wakatime.com/badge/user/rivanghibran.svg)](https://wakatime.com/@rivanghibran)
-![WakaTime Stats](https://wakatime.com/badge/user/<rivanghibran>.svg)
 
